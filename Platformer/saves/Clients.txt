@@ -1,0 +1,4 @@
+1 solver s 1 1 1 0 0
+2 qwe qwe 0 9 10 370 149
+3 Test test 0 10 10 60 60
+4 q q 0 2 2 66 113

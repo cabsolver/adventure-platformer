@@ -1,0 +1,19 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="slime.png" transparentColor="">
+ <animation title="move" delay="200">
+  <cut w="26" x="132" y="12" h="12" row="1" col="1"/>
+  <cut w="26" x="164" y="12" h="12" row="1" col="1"/>
+  <cut w="24" x="196" y="12" h="12" row="1" col="1"/>
+  <cut w="26" x="228" y="13" h="11" row="1" col="1"/>
+ </animation>
+ <animation title="dead" delay="200">
+  <cut w="30" x="161" y="33" h="16" row="1" col="1"/>
+  <cut w="30" x="193" y="33" h="16" row="1" col="1"/>
+  <cut w="30" x="225" y="33" h="16" row="1" col="1"/>
+  <cut w="30" x="1" y="58" h="16" row="1" col="1"/>
+  <cut w="30" x="33" y="58" h="16" row="1" col="1"/>
+  <cut w="30" x="65" y="58" h="16" row="1" col="1"/>
+  <cut w="30" x="96" y="58" h="16" row="1" col="1"/>
+  <cut w="30" x="128" y="58" h="16" row="1" col="1"/>
+ </animation>
+</sprites>
